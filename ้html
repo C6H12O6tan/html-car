@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>European Car Showcase</title>
+    <link rel="stylesheet" href="stylee.css">
+</head>
+<body>
+    <div class="card-container">
+        <div class="card">
+            <div class="image-box">
+                <img src="https://i.pinimg.com/564x/36/b2/27/36b227553201dfda6d98a0d326e1eeb7.jpg" alt="Audi R8">
+            </div>
+            <div class="content">
+                <h2>Audi R8</h2>
+                <p>The Audi R8 is a mid-engine, 2-seater sports car, which uses Audi's trademark quattro permanent all-wheel drive system.</p>
+                <p><strong>Recommendation:</strong> With its impressive performance and iconic design, the Audi R8 is perfect for those seeking a thrilling driving experience.</p>
+            </div>
+        </div>
+      
+        <div class="card">
+            <div class="image-box">
+                <img src="https://i.pinimg.com/564x/0b/2a/b1/0b2ab1249f74b356c65c41de1079d40a.jpg" alt="BMW M3">
+            </div>
+            <div class="content">
+                <h2>BMW M3</h2>
+                <p>The BMW M3 is a high-performance version of the BMW 3 Series, developed by BMW's in-house motorsport division, BMW M GmbH.</p>
+                <p><strong>Recommendation:</strong> With its combination of luxury and sportiness, the BMW M3 is an excellent choice for those who enjoy spirited driving.</p>
+            </div>
+        </div>
+       
+        <div class="card">
+            <div class="image-box">
+                <img src="https://i.pinimg.com/564x/af/98/a3/af98a36c99205be7809b84573aabc639.jpg" alt="Mercedes-Benz S-Class">
+            </div>
+            <div class="content">
+                <h2>Mercedes-Benz S-Class</h2>
+                <p>The Mercedes-Benz S-Class, formerly known as Sonderklasse, is a series of full-size luxury sedans and limousines produced by the German automaker Mercedes-Benz.</p>
+                <p><strong>Recommendation:</strong> With its unparalleled comfort and cutting-edge technology, the Mercedes-Benz S-Class sets the standard for luxury sedans.</p>
+            </div>
+        </div>
+       
+        <div class="card">
+            <div class="image-box">
+                <img src="https://i.pinimg.com/736x/95/ec/2d/95ec2d4d41a63fdb0d3b3f5a8c7a6545.jpg" alt="Porsche 911">
+            </div>
+            <div class="content">
+                <h2>Porsche 911</h2>
+                <p>The Porsche 911 is a two-door, 2+2 high performance rear-engined sports car.</p>
+                <p><strong>Recommendation:</strong> With its iconic design and exhilarating performance, the Porsche 911 is a symbol of automotive excellence.</p>
+            </div>
+        </div>
+        
+        <div class="card">
+            <div class="image-box">
+                <img src="https://i.pinimg.com/564x/07/3b/fb/073bfbcece4bf4bfbd966e194199c705.jpg" alt="Volkswagen Golf">
+            </div>
+            <div class="content">
+                <h2>Volkswagen Golf</h2>
+                <p>The Volkswagen Golf is a compact car produced by the German automotive manufacturer Volkswagen since 1974.</p>
+                <p><strong>Recommendation:</strong> With its practicality and solid build quality, the Volkswagen Golf is an excellent choice for everyday driving.</p>
+            </div>
+        </div>
+        
+        <div class="card">
+            <div class="image-box">
+                <img src="https://i.pinimg.com/736x/69/9a/ff/699affa1595a1f799bf7038aa3553126.jpg" alt="Alfa Romeo Giulia">
+            </div>
+            <div class="content">
+                <h2>Alfa Romeo Giulia</h2>
+                <p>The Alfa Romeo Giulia is a compact executive car produced by the Italian automobile manufacturer Alfa Romeo.</p>
+                <p><strong>Recommendation:</strong> With its sleek styling and engaging driving dynamics, the Alfa Romeo Giulia offers a truly Italian driving experience.</p>
+            </div>
+        </div>
+       
+        <div class="card">
+            <div class="image-box">
+                <img src="https://i.pinimg.com/564x/be/e6/68/bee668469fb7e8514486aae03cdb701f.jpg" alt="Ferrari 488">
+            </div>
+            <div class="content">
+                <h2>Ferrari 488</h2>
+                <p>The Ferrari 488 is a mid-engine sports car produced by the Italian automobile manufacturer Ferrari.</p>
+                <p><strong>Recommendation:</strong> As one of the most iconic sports car brands, owning a
+                </div>
+            </div>
+                    
+        <div class="card">
+                <div class="image-box">
+                     <img src="https://i.pinimg.com/564x/e1/33/7c/e1337cc60d39b5e9a826e1eef4c09a11.jpg" alt="Aston Martin">
+         </div>
+         <div class="content">
+                <h2>Aston Martin</h2>
+                <p>Aston Martin is a renowned British luxury sports car manufacturer.</p>
+                <p><strong>Recommendation:</strong> Known for its elegance and performance, Aston Martin cars offer a truly luxurious driving experience.</p>
+                 </div>
+            </div>
+                    
+        <div class="card">
+                 <div class="image-box">
+                       <img src="https://i.pinimg.com/564x/81/a5/4d/81a54d7ee859532b41e1ce616d629fb9.jpg" alt="Bentley">
+        </div>
+        <div class="content">
+                <h2>Bentley</h2>
+                <p>Bentley Motors Limited is a British manufacturer and marketer of luxury cars and SUVs.</p>
+                <p><strong>Recommendation:</strong> Bentley cars are synonymous with opulence and refinement, making them an ideal choice for those who seek unparalleled luxury.</p>
+                </div>
+            </div>
+                    
+        <div class="card">
+                 <div class="image-box">
+                        <img src="https://i.pinimg.com/564x/8a/89/f7/8a89f73ece0b4fd83e52264380641acf.jpg" alt="Jaguar">
+        </div>
+
+        <div class="content">
+                <h2>Jaguar</h2>
+                <p>Jaguar is a British luxury vehicle manufacturer, headquartered in Coventry, England.</p>
+                <p><strong>Recommendation:</strong> Jaguar cars combine performance, sophistication, and British craftsmanship, offering a driving experience like no other.</p>
+                </div>
+            </div>
+        
+            <div class="card">
+                <div class="image-box">
+                    <img src="https://i.pinimg.com/564x/03/9b/0e/039b0e0d939f503f9389c2411f68f202.jpg" alt="Land Rover">
+                </div>
+                <div class="content">
+                    <h2>Land Rover</h2>
+                    <p>Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar Land Rover (JLR), since 2008.</p>
+                    <p><strong>Recommendation:</strong> Renowned for their off-road capabilities and luxury interiors, Land Rover vehicles are perfect for those who seek adventure without compromising comfort.</p>
+                </div>
+            </div>
+            
+        <div class="card">
+             <div class="image-box">
+                 <img src="https://i.pinimg.com/564x/04/0b/f6/040bf631411b69b60268dd7fa36ea1c4.jpg" alt="Lotus">
+    </div>
+
+    <div class="content">
+        <h2>Lotus</h2>
+        <p>Lotus Cars is a British automotive company that manufactures sports cars and racing cars in its headquarters in Hethel, United Kingdom.</p>
+        <p><strong>Recommendation:</strong> Known for their lightweight and agile sports cars, Lotus offers exhilarating driving experiences for enthusiasts.</p>
+    </div>
+</div>
+
+    <div class="card">
+         <div class="image-box">
+             <img src="https://i.pinimg.com/564x/5e/25/8d/5e258d1ebc9ef5a01c8c4c042c656ab6.jpg" alt="McLaren">
+    </div>
+    <div class="content">
+        <h2>McLaren</h2>
+        <p>McLaren Automotive is a British automotive manufacturer of luxury, high-performance sports cars and supercars based in Woking, Surrey, England.</p>
+        <p><strong>Recommendation:</strong> With a focus on cutting-edge technology and aerodynamics, McLaren offers some of the fastest and most advanced supercars in the world.</p>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-box">
+        <img src="https://i.pinimg.com/564x/93/2a/83/932a831eb96493b25d9be7a085c8b494.jpg" alt="Mini">
+    </div>
+    <div class="content">
+        <h2>Mini</h2>
+        <p>MINI is a British automotive marque founded in 1969, owned by German automotive company BMW since 2000, and used by them for a range of small cars.</p>
+        <p><strong>Recommendation:</strong> With their iconic design and compact size, MINI cars are perfect for urban driving and offer a fun and quirky driving experience.</p>
+    </div>
+</div>
+<div class="card">
+    <div class="image-box">
+        <img src="https://i.pinimg.com/564x/90/55/f1/9055f15923de427244dc66d3258a5e3b.jpg" alt="Morgan">
+    </div>
+    <div class="content">
+        <h2>Morgan</h2>
+        <p>Morgan Motor Company is a British motor car manufacturer founded in 1910 by Henry Frederick Stanley Morgan.</p>
+        <p><strong>Recommendation:</strong> With their classic design and handcrafted construction, Morgan cars offer a nostalgic and timeless driving experience.</p>
+    </div>
+</div>
+<div class="card">
+    <div class="image-box">
+        <img src="https://i.pinimg.com/736x/50/13/0c/50130cb5143312ebb4dbee46b8a708f6.jpg" alt="Rolls-Royce">
+    </div>
+    <div class="content">
+        <h2>Rolls-Royce</h2>
+        <p>Rolls-Royce Motor Cars Limited is a British luxury automobile maker. Rolls-Royce Motor Cars Limited operates from purpose-built administrative and production facilities opened in 2003 across from the historic Goodwood Circuit in Goodwood, West Sussex, England, United Kingdom.</p>
+        <p><strong>Recommendation:</strong> Renowned for their unparalleled luxury and craftsmanship, Rolls-Royce cars offer the ultimate expression of automotive opulence and prestige.</p>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-box">
+        <img src="https://i.pinimg.com/564x/a8/70/a0/a870a065e475f181304fe1e3e43bbd57.jpg" alt="Lamborghini">
+    </div>
+    <div class="content">
+        <h2>Lamborghini</h2>
+        <p>Lamborghini is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese. The company is owned by the Volkswagen Group through its subsidiary Audi.</p>
+        <p><strong>Recommendation:</strong> Lamborghini cars are known for their extreme designs and exceptional performance, making them a top choice for enthusiasts and collectors.</p>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-box">
+        <img src="https://i.pinimg.com/564x/70/74/ea/7074ea6521b615fce67c323decb5fd40.jpg" alt="Chevrolet">
+    </div>
+    <div class="content">
+        <h2>Chevrolet</h2>
+        <p>Chevrolet is an American automobile division of the American manufacturer General Motors (GM). Louis Chevrolet and ousted General Motors founder William C. Durant started the company on November 3, 1911, as the Chevrolet Motor Car Company.</p>
+        <p><strong>Recommendation:</strong> Chevrolet offers a wide range of vehicles from compact cars to trucks and SUVs, known for their reliability and affordability.</p>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-box">
+        <img src="https://i.pinimg.com/564x/86/34/10/8634107b57735702aefbb5fbcc55f9f6.jpg" alt="Bugatti">
+    </div>
+    <div class="content">
+        <h2>Bugatti</h2>
+        <p>Bugatti Automobiles S.A.S. is a French high-performance luxury automobiles manufacturer and a subsidiary of Volkswagen AG. Bugatti was founded in 1909 in the then-German city of Molsheim, Alsace by Italian-born Ettore Bugatti.</p>
+        <p><strong>Recommendation:</strong> Bugatti is synonymous with exclusivity, luxury, and unrivaled performance. Owning a Bugatti is a symbol of automotive excellence and prestige.</p>
+    </div>
+</div>
